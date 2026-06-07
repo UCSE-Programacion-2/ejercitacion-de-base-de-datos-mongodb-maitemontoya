@@ -1,0 +1,14 @@
+{
+  "name": "ejercitacion-mongodb",
+  "version": "1.0.0",
+  "description": "Ejercitación de Base de Datos MongoDB",
+  "main": "consultas.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "mongodb": "^6.5.0",
+    "mongodb-memory-server": "^9.1.6"
+  }
+}
