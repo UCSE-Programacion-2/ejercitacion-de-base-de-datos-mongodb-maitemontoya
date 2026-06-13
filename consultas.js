@@ -62,7 +62,8 @@ const buscarGrupoJ = {
 // 9. Ordenamiento (Sort): Escribe el objeto para ordenar los resultados por "rendimiento.ganados" de forma descendente (del mayor al menor).
 const ordenarPorGanados = {
   // Tu código aquí
-     "rendimiento.ganados": -1
+     "rendimiento.goles_a_favor": -1,
+  "rendimiento.ganados": -1
 };
 
 // 10. Modificación ($set): Escribe el OPERADOR de actualización necesario para cambiar el nombre del "tecnico" a "Lionel Scaloni (Campeón)". 
